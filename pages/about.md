@@ -6,4 +6,4 @@ permalink: /about
 
 # zhj860611's Portfolio
 
-Isn't it great?
+Isn't it great.
