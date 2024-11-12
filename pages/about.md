@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: About you
 permalink: /about
 ---
 
-# zhj860611's Portfolio
+# Jing's Portfolio
 
-Isn't it great.
+My name is Jing Zhang. I am an assistant professor in industrial economics at Nottingham University Business School. As an applied economist, my research covers a range of topics including trade, foreign direct investment, innovation, environment, and economic development. I obtained my PhD in Economics from the University of Birmingham. My current research focuses on innovation and sustainable development, exploring the impact of technological changes, institutions and policy incentives on firm strategies in R&D, green innovation, environmental performance, resource allocation and competitiveness. With over 10 years of teaching experience in higher education, I have delivered modules to students at different levels. I have successfully supervised 8 PhD students to completion. 
