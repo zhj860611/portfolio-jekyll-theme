@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About you
-permalink: /about
+permalink: /about you
 ---
 
 # Jing's Portfolio
